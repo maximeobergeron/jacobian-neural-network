@@ -1,0 +1,1 @@
+A simple Jupyter Notebook fleshing out the mechanics of a neural network using the true power of the chain rule.
